@@ -5,6 +5,7 @@ Bash script that takes screenshoots in regular intervals
 ## Installation
 
 ```bash
+cd ~
 wget https://raw.githubusercontent.com/vlazic/screen-selfie/master/screen-selfie.sh
 chmod +x screen-selfie.sh
 ./screen-selfie.sh
